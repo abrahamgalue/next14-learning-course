@@ -8,6 +8,11 @@
 
 > 🧩 Aquí puedes ver su [**Live Demo.**](https://next14-dashboard-abraham.vercel.app/)
 
+> [!NOTE]
+> Para iniciar sesión utiliza estas credenciales <br />
+> Email: **user@nextmail.com** <br />
+> Password: **123456**
+
 ![vista-previa](./public/preview/01-page-preview.jpg)
 
 ![vista-previa](./public/preview/02-page-preview.jpg)
